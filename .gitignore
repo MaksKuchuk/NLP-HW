@@ -1,0 +1,4 @@
+gpt2_tokenizer
+*.keras
+dataset
+.ipynb_checkpoints
