@@ -3,3 +3,5 @@ gpt2_tokenizer
 dataset
 .ipynb_checkpoints
 dataset*
+ru_tokenizer
+en_tokenizer
