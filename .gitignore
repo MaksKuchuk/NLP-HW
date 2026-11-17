@@ -5,3 +5,6 @@ dataset
 dataset*
 ru_tokenizer
 en_tokenizer
+tokenmonster_cache/
+imdb/
+tokenizer.vocab
