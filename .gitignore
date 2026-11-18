@@ -8,3 +8,6 @@ en_tokenizer
 tokenmonster_cache/
 imdb/
 tokenizer.vocab
+dinov2_VITB_14.onnx
+embeddings.*
+Dataset
